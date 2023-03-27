@@ -6,7 +6,7 @@ def menu_function():
     print("3. Exit")
     print(end="\n")
 
-
+# stephanie murphy
 def encoder_function(digits):
     result = ""
     for num in digits:
