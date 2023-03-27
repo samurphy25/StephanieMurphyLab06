@@ -1,3 +1,4 @@
+#  stephanie murphy
 def menu_function():
     print("Menu option:")
     print("1. Encode password")
